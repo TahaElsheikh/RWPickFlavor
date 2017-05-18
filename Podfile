@@ -4,6 +4,5 @@ use_frameworks!
 target 'RWPickFlavor' do
 pod 'Alamofire', '~> 4.4'
 pod 'MBProgressHUD', '~> 0.9.0'
-Swift 2.0, run: 
-    `echo “2.0” > .swift-version`
+echo "2.3" > .swift-version`
 end
