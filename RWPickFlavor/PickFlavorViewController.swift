@@ -68,7 +68,7 @@ public class PickFlavorViewController: UIViewController {
 
   private func showLoadingHUD() {
     let hud = MBProgressHUD.showAdded(to: contentView, animated: true)
-    hud.label.text = "Loading..."
+//    hud.label.text = "Loading..."
   }
 
   private func hideLoadingHUD() {
