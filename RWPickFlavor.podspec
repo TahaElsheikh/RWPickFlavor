@@ -21,14 +21,14 @@ s.author = { "TahaElsheikh" => "tahaelsheikh22@gmail.com" }
 
 
 # 5 - Replace this URL with your own Github page's URL (from the address bar)
-s.homepage = "https://github.com/TahaElsheikh/RWPickFlavor"
+s.homepage = "https://github.com/TahaElsheikh2/RWPickFlavor"
 
 # For example,
 # s.homepage = "https://github.com/JRG-Developer/RWPickFlavor"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/TahaElsheikh/RWPickFlavor.git", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/TahaElsheikh2/RWPickFlavor.git", :tag => "#{s.version}"}
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
